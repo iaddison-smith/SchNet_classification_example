@@ -80,7 +80,7 @@ distro==1.7.0
 dlib==19.24.4
 dm-haiku==0.0.12
 dm-tree==0.1.8
-dmol-book @ file:///content/dmol-book/package
+dmol-book 
 docker-pycreds==0.4.0
 docstring_parser==0.16
 docutils==0.17.1
